@@ -8,5 +8,12 @@ public class Test {
         System.out.println(System.currentTimeMillis());
         System.out.println(System.currentTimeMillis());
         System.out.println(System.currentTimeMillis());
+        new Thread((new Runnable() {
+            @Override
+            public void run() {
+                System.out.println(System.currentTimeMillis()+"huangxuwei");
+                System.out.println(Thread.currentThread().getName());
+            }
+        }),"a").start();
     }
 }
