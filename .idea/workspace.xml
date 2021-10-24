@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="140892eb-1197-4dc7-9b2b-a2001ea8be98" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task/src/main/java/com/wei/test/Test.java" afterDir="false" />
+    <list default="true" id="140892eb-1197-4dc7-9b2b-a2001ea8be98" name="Changes" comment="info：删除了输出目录。">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -82,8 +83,79 @@
       <workItem from="1634959728702" duration="1274000" />
       <workItem from="1634975430669" duration="2402000" />
       <workItem from="1635044959900" duration="1199000" />
-      <workItem from="1635063806939" duration="2734000" />
+      <workItem from="1635063806939" duration="4061000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1635075490040</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075490040</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1635075757694</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075757694</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <created>1635075883033</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075883033</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <created>1635075957044</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1635075957044</updated>
+    </task>
+    <task id="LOCAL-00005" summary="delete：删除了一行">
+      <created>1635076065719</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076065719</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add：增加的一行">
+      <created>1635076206099</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076206099</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add：增加的几行">
+      <created>1635076558071</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076558071</updated>
+    </task>
+    <task id="LOCAL-00008" summary="info：格式化了代码。">
+      <created>1635076597089</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076597089</updated>
+    </task>
+    <task id="LOCAL-00009" summary="info：删除了输出目录。">
+      <created>1635076702190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076702190</updated>
+    </task>
+    <task id="LOCAL-00010" summary="info：删除了输出目录。">
+      <created>1635076777623</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1635076777623</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,11 +166,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="delete：删除了一行" />
+    <MESSAGE value="add：增加的一行" />
+    <MESSAGE value="add：增加的几行" />
+    <MESSAGE value="info：格式化了代码。" />
+    <MESSAGE value="info：删除了输出目录。" />
+    <option name="LAST_COMMIT_MESSAGE" value="info：删除了输出目录。" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
